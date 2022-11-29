@@ -1,0 +1,6 @@
+<script>
+window.dataLayer.push({
+ 'event': 'new_subscriber'
+ 'formLocation': 'footer',
+ });
+</script>
